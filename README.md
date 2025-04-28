@@ -90,58 +90,7 @@ I love solving complex problems and building secure, efficient, and engaging tec
 <hr/>
 
 <!-- 5. GitHub Stats & Dynamic Content -->
-## 📊 My GitHub Activity
 
-<!-- GitHub Stats Card -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Daniel's GitHub Stats"/>
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Daniel's Top Languages"/>
-</p>
-
-<!-- Snake Game Contribution Grid -->
-<!-- 
-  Action Setup Needed! 
-  1. Create a workflow file: `.github/workflows/update_snake.yml`
-  2. Paste the content from: https://github.com/Platane/snk#github-actions
-  3. Make sure the output file in the workflow is `assets/github-contribution-grid-snake.svg`
-  4. Commit and push the workflow file. It will run on schedule.
--->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/assets/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/assets/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<!-- Profile Trophy -->
-<!-- 
-  Action Setup Needed! 
-  1. Go to: https://github.com/ryo-ma/github-profile-trophy
-  2. Authorize the app to access your public data.
-  3. Copy the generated Markdown image link below.
--->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
-<!-- Optional: WakaTime Stats -->
-<!-- 
-  WakaTime Setup Needed!
-  1. Sign up/in at https://wakatime.com/
-  2. Install the plugin for your code editor(s).
-  3. Create a GitHub Action using https://github.com/anmol098/waka-readme-stats
-  4. Embed the generated SVG image below.
--->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Stats"/>
-</p> 
--->
-
-<!-- Horizontal Rule -->
-<hr/>
 
 <!-- 6. Spotlight Projects -->
 ## 🚀 Project Highlights
@@ -157,8 +106,7 @@ A few things I've built:
   > ✨ Check out my <a href="https://danieltolenaar.vercel.app" target="_blank" rel="noopener noreferrer">**Full Portfolio**</a> for more! ✨ <
 </p>
 
-<!-- Horizontal Rule -->
-<hr/>
+
 
 <!-- 7. Collapsible Section Example (Optional but Recommended) -->
 <details>
