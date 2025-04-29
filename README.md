@@ -49,7 +49,7 @@ Here's a quick snapshot:
 *   🛡️ **Cyber Sec Focus:** Passionate about Ethical Hacking, Penetration Testing, Network Security, and Digital Forensics. Constantly honing skills with tools like Kali Linux, Burp Suite, Nmap, and Metasploit.
 *   💻 **Developer Mindset:** Building interactive web applications using **React, Next.js, Node.js, Python (Flask),** and crafting engaging 3D experiences with **Three.js**.
 *   🧠 **Exploring Frontiers:** Actively learning about **AI/ML**, **Quantitative Finance** (Top 1% in IMC Prosperity!), and the potential of **Quantum Computing**.
-*   🥋 **Disciplined Approach:** A dedicated **Taekwondo Black Tag** student, applying focus and perseverance to technical challenges.
+*   🥋 **Disciplined Approach:** A dedicated **Taekwondo Black Belt** student, applying focus and perseverance to technical challenges.
 *   🎓 **Academically Driven:** Currently tackling A-Levels in Computer Science, Physics, Maths, and Further Maths.
 
 I love solving complex problems and building secure, efficient, and engaging technology.
@@ -143,7 +143,4 @@ I'm always open to connecting with fellow tech enthusiasts, discussing opportuni
 </p>
 
 ---
-<!-- Footer -->
-<p align="center">
-  <em>Profile crafted with ☕ and code.</em>
-</p>
+
