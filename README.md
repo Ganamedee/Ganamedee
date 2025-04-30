@@ -42,7 +42,7 @@
 <!-- 3. About Me Section -->
 ## 👋 Hey there! I'm Daniel.
 
-Based in **Bath, UK**, I'm a highly motivated student diving deep into the realms of **Cyber Security** and **Software Development**. I'm thrilled to be joining **Bank of America** as an incoming **Cyber Security Degree Apprentice** starting February 2025! 🏦
+Based in **Bath, UK**, I'm a highly motivated student diving deep into the realms of **Cyber Security** and **Software Development**. I'm thrilled to be joining **Bank of America** as an incoming **Cyber Security Degree Apprentice** starting September 2025! 🏦
 
 Here's a quick snapshot:
 
