@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://danieltolenaar.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0066FF¢er=true&vCenter=true&width=550&lines=Cyber+Security+Specialist+🛡️;Full-Stack+Developer+💻;Ethical+Hacking+Enthusiast+🕵️‍♂️;AI+%26+Quant+Explorer+🧠;Taekwondo+Black+Tag+🥋;Incoming+BoA+Apprentice+🏦" alt="Typing SVG - Daniel Tolenaar Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0066FF¢er=true&vCenter=true&width=550&lines=Cyber+Security+Specialist+🛡️;Full-Stack+Developer+💻;Ethical+Hacking+Enthusiast+🕵️‍♂️;AI+%26+Quant+Explorer+🧠;Taekwondo+Black+Belt+🥋;Incoming+BoA+Apprentice+🏦" alt="Typing SVG - Daniel Tolenaar Roles" />
   </a>
 </p>
 
