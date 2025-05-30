@@ -8,7 +8,7 @@
 <p align="center">
   <!-- Choose ONE banner image/GIF. Replace the src -->
   <!-- Option A: Minimalist Tech Banner -->
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/assets/banner.png" alt="Header Banner - Tech Background">
+  <img src="https://raw.githubusercontent.com/Ganamedee/Ganamedee/main/assets/banner.png" alt="Header Banner - Tech Background">
   <!-- Option B: Animated GIF (Keep it < 2MB!) -->
   <!-- <img src="https://path-to-your-cool-gif.gif" alt="Animated Header Banner"> -->
 </p>
