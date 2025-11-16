@@ -28,7 +28,7 @@
 
 
 
-Based in **Bath, UK**, I'm a highly motivated **Cyber Security Degree Apprentice** at **Bank of America**, diving deep into the realms of **Cyber Security** and **Software Development**. I'm currently combining practical work experience with academic study in cybersecurity! 🏦
+Based in **Chester, UK**, I'm a highly motivated **Cyber Security Degree Apprentice** at **Bank of America**, diving deep into the realms of **Cyber Security** and **Software Development**. I'm currently combining practical work experience with academic study in cybersecurity! 🏦
 
 
 
