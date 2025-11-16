@@ -133,41 +133,6 @@ A few things I've built:
 
 
 
-
-
-
-<!-- 7. Collapsible Section Example (Optional but Recommended) -->
-
-<details>
-
-  <summary>📜 Click Here to See My Certifications</summary>
-
-  <br/>
-
-  I'm proud of my continuous learning journey. Some key certifications include:
-
-  <ul>
-
-    <li>Google Cybersecurity Professional Certificate (Coursera)</li>
-
-    <li>IBM Generative AI Specialization (Coursera)</li>
-
-    <li>CyberFirst Advanced (QA / NCSC)</li>
-
-    <li>Ethical Hacking Certifications (HackerX, Ethical Hacking University)</li>
-
-    <li>Quantitative Modeling / Analysis Courses (UPenn, UC Davis via Coursera)</li>
-
-    <li>Various Finance & Tech Job Simulations (Forage - Citi, HSBC, JPMC, Goldman Sachs, BoA, Deloitte, Mastercard, Amazon, Fujitsu)</li>
-
-    <li><em>... and many more! (See full list on my <a href="https://danieltolenaar.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a>)</em></li>
-
-  </ul>
-
-</details>
-
-
-
 <!-- Horizontal Rule -->
 
 <hr/>
